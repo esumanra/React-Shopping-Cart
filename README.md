@@ -1,0 +1,1 @@
+This app represents a typical shopping cart page built with React and Bootstrap.
